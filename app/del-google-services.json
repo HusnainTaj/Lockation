@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603909249764",
+    "project_id": "lockation-1bf8a",
+    "storage_bucket": "lockation-1bf8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603909249764:android:7d6699deb95685095e2af1",
+        "android_client_info": {
+          "package_name": "com.taj.lockation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603909249764-84lkd9ee4q2vcvg03fg55k8m95hmfcka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJkFPYjWraDekZbE7inNHvEm7iQ9F6eBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603909249764-84lkd9ee4q2vcvg03fg55k8m95hmfcka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
