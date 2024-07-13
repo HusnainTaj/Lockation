@@ -4,12 +4,11 @@
 # Lockation
 Lockation is an Android application that automatically unlocks your apps based on your Location or WiFi.
 
-To see screenshots or try the app, visit the [Play Store](https://play.google.com/store/apps/details?id=com.taj.lockation).
-
-[Website](https://lockation.github.io/)
+To see screenshots or try the app, visit the [Play Store](https://play.google.com/store/apps/details?id=com.taj.lockation) page.
 
 > [!important]
 > Lockation was a hobby project made for learning Android Development. Bugs and security vulnerabilities may exist, so it should not be used to protect your apps.
+> 
 > This repo should only be used for learning and educational purposes.
 
 ## Features
