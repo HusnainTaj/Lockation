@@ -89,8 +89,8 @@ public class AppLockService extends Service
             {
                 List<SafeLocation> sls = lockationDatabase.safeLocationDao().getAll();
 
-                // Workaround for a logical error
-                // to reproduce
+                // Workaround for a logical error.
+                // to reproduce,
                 // add safe location, and wait for apps to unlock
                 // then delete the safe location
                 // now app will remain unlocked because inSafeLocation is true

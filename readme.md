@@ -1,25 +1,22 @@
 
-![lockation wide](https://github.com/HusnainTaj/Lockation/assets/85726252/54a4523c-2fe5-4935-a4b4-c50055dfa7d8)
+![lockation wide](https://github.com/HusnainTaj/Lockation-Personal/assets/85726252/54a4523c-2fe5-4935-a4b4-c50055dfa7d8)
 
 # Lockation
 Lockation is an Android application that automatically unlocks your apps based on your Location or WiFi.
 
-Checkout the store listing for screenshots and more info.
-
-[Play Store](https://play.google.com/store/apps/details?id=com.taj.lockation)
+To see screenshots or try the app, visit the [Play Store](https://play.google.com/store/apps/details?id=com.taj.lockation).
 
 [Website](https://lockation.github.io/)
 
-
 > [!important]
-> This project was made as a hobby project for learning Android Development, So, it doesn't follow best practices and may contain bugs.
-> It is not recommended to use Lockation to protect your apps, Instead you should use the built-in security features of your device.
+> Lockation was a hobby project made for learning Android Development. Bugs and security vulnerabilities may exist, so it should not be used to protect your apps.
 > This repo should only be used for learning and educational purposes.
 
 ## Features
 - Monitors when an app opens to show the lock screen if necessary.
 - Automatically unlocks your apps if you are within a certain area (`Safe Location`), or connected to a known WiFi (`Safe WiFi`).
 - Conversely, automatically locks your apps if the device is not within a `Safe Location` or not connected to a `Safe WiFi`.
+- Storing data in a local database using Room.
 - Premium Subscription Management using Android Billing Client
 
 ## Permissions Required
