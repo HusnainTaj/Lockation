@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Lockation</string>
+    <string name="title_activity_main">Lockation</string>
+    <string name="title_activity_intro">Introduction</string>
+    <string name="title_activity_permission">Permissions</string>
+    <string name="title_activity_locked">Lock Screen</string>
+
+    <string name="wifi_help_text">The apps will be unlocked if you are connected to one of these safe WiFis.\n\nRequires Location to be active.</string>
+    <string name="location_help_text">The apps will be unlocked if you are within one of these areas.\n\nRequires Location to be active.</string>
+
+
+    <string name="intro_page1_text">An Applock that automatically unlocks your apps based on your Location or WiFi</string>
+    <string name="intro_page1_5_text">Lockation is in Beta, so expect some bugs and crashes\n\nHelp improve Lockation by using the \'Report a Bug\' option in the sidebar</string>
+    <string name="intro_page2_text">Due to limitations of Android, Lockation can not prevent users from uninstalling or force stopping it</string>
+    <string name="intro_page3_text">Due to the nature of this app, it requires some special/sensitive permissions in order to work</string>
+
+    <string name="perms_location_rationale">It is required to get information about your current Location and connected WiFi to un/lock apps.</string>
+    <string name="perms_background_location_rationale">It is required to be able to monitor Location and WiFi changes to un/lock the apps.\n\nMake sure to select \"Allow all the time\" in the settings.</string>
+    <string name="perms_notifications_rationale">It is required to inform you about the applock status and any important actions needed.\n\nYou can disable specific types of notifications in the settings.</string>
+    <string name="perms_usage_stats_rationale">Access to device\'s usage statistics is required to monitor when an app opens to show the lock screen if necessary.\n\nSelect Lockation and allow in the next window.</string>
+    <string name="perms_overlay_rationale">It is required to show the lock screen when you open a locked app.\n\nSelect Lockation and allow in the next window.</string>
+
+
+    <string name="email_bug_report_subject">Bug Report</string>
+    <string name="email_bug_report_body">
+        Description: [Explain what were you expecting and what actually happened?]\n\n
+        Steps to Reproduce: [Step by step guide on how to cause the same bug again]\n\n
+        Android version: [Your device\'s Android OS version]\n\n
+        Device Model: [Your device\'s Model found in About Phone]
+    </string>
+
+    <string name="email_improvement_subject">Improvement Suggestion</string>
+    <string name="email_improvement_body">
+        [Share your amazing ideas that you think will be a good addition for the app]
+    </string>
+
+</resources>
