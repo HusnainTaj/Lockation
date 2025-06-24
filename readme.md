@@ -1,10 +1,10 @@
-![lockation wide](https://github.com/user-attachments/assets/a9673047-4a21-40df-9550-9110dcde69a5)
+![lockation wide](https://github.com/user-attachments/assets/451945f7-f7ee-417b-ad76-f4af0e92555b)
 
 # Lockation
 
 Lockation is an Android application that automatically unlocks your apps based on your Location or WiFi.
 
-<img src="https://github.com/user-attachments/assets/c838cf47-9a8c-442d-bcc5-b027d3b79560" width="18%"></img> <img src="https://github.com/user-attachments/assets/7b056e9d-8b9b-4571-938d-adea157e8e8c" width="18%"></img> <img src="https://github.com/user-attachments/assets/e8f62309-2296-48c7-9147-15c297be9191" width="18%"></img> <img src="https://github.com/user-attachments/assets/d61ee7e4-72e7-40bf-a4b3-7d384ad06407" width="18%"></img> <img src="https://github.com/user-attachments/assets/77f8ea4b-e9c0-4fc7-a06b-6daad9d5962e" width="18%"></img> 
+<img src="https://github.com/user-attachments/assets/d74da65a-306b-461b-8bfd-b02b4cd37b98" width="18%"></img> <img src="https://github.com/user-attachments/assets/2d2153c9-576c-4712-bad1-a49b50f93169" width="18%"></img> <img src="https://github.com/user-attachments/assets/b5633ba4-10aa-46b1-9468-7660d8430969" width="18%"></img> <img src="https://github.com/user-attachments/assets/9732855c-c00a-4a81-b571-61c416a7cda8" width="18%"></img> <img src="https://github.com/user-attachments/assets/75a6bd00-7020-4ea6-b364-58142bda7a0f" width="18%"></img> 
 
 > [!important]
 > Lockation was a hobby project made for learning Android Development. Bugs and security vulnerabilities may exist, so it should not be used to protect your apps.
@@ -23,7 +23,7 @@ Lockation is an Android application that automatically unlocks your apps based o
 
 Figma: [https://www.figma.com/design/wJ9Tqrl4eLuJB3khmK7svp/Lockation](https://www.figma.com/design/wJ9Tqrl4eLuJB3khmK7svp/Lockation)
 
-<img src="https://github.com/user-attachments/assets/8d17fac9-f11c-48bd-8ef5-67ae101433e7" width="15%"></img> <img src="https://github.com/user-attachments/assets/0bb9769c-484f-4d34-b87a-d27aa0dacdd5" width="15%"></img> <img src="https://github.com/user-attachments/assets/e2b5e187-4509-4e53-9dc6-cce138026769" width="15%"></img> <img src="https://github.com/user-attachments/assets/80477f04-a29c-402e-9721-9f022501700a" width="15%"></img> <img src="https://github.com/user-attachments/assets/8aa3e930-1bed-4a59-9cdb-a0595d9d8852" width="15%"></img> <img src="https://github.com/user-attachments/assets/0e7037e2-095f-4a90-8731-ecb186b38d71" width="15%"></img> 
+<img src="https://github.com/user-attachments/assets/7cba2ad2-60b6-41fd-871d-cc2329f28cd5" width="15%"></img> <img src="https://github.com/user-attachments/assets/d39a3409-2011-45d6-8eca-26d4a06a911f" width="15%"></img> <img src="https://github.com/user-attachments/assets/22eccb10-fc3a-44bf-bd11-c63780e7a252" width="15%"></img> <img src="https://github.com/user-attachments/assets/339f8d17-94ee-4eae-a5ad-836174b84687" width="15%"></img> <img src="https://github.com/user-attachments/assets/04b23d5d-7e2d-47eb-b3f7-6fe2f5afa4ea" width="15%"></img> <img src="https://github.com/user-attachments/assets/c147c657-7671-4e90-bb46-a7402625feaf" width="15%"></img> 
 
 ## Permissions Required
 
